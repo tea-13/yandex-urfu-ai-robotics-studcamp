@@ -1,0 +1,1 @@
+# yandex-urfu-ai-robotics-studcamp

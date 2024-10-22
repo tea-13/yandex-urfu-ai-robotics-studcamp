@@ -131,7 +131,7 @@ def get_robot_angle(_img, _box):
 
         return angle
 
-    raise ValueError("Еблан угор не считается")
+    raise ValueError("Еблан угол не считается")
 
 
 BB_TEXT_COLOR = (206, 89, 59)
